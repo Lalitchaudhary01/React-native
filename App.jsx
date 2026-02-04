@@ -4,7 +4,7 @@ import { View, Text, StyleSheet, Image, Button } from 'react-native';
 const App = () => {
   return (
     <View>
-      <Text>Lalit chaudhary </Text>
+      <Text>Lalit chaudharY </Text>
       <Image
         source={{
           uri: 'https://ik.imagekit.io/gpo2lkfh1/period.jpg?updatedAt=1767977563706',
